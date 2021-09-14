@@ -1,2 +1,2 @@
 # SWUdoList
-SWUdoListApp
+GURU2 Project
